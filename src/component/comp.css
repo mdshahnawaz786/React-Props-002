@@ -1,0 +1,94 @@
+.div{
+    height: 40%;
+    width: 80%;
+    /* border: 2px solid yellow; */
+    display: flex;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 0 15px red;
+}
+
+.left{
+    height: 100%;
+    width: 55%;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+}
+
+.right{
+    height: 100%;
+    width: 45%;
+    /* border: 2px solid green; */
+}
+
+.one{
+    height: 50%;
+    width: 100%;
+    /* border: 2px solid green; */
+    display: flex;
+    padding: 20px 30px;
+}
+
+.two{
+    padding: 5px 30px;
+    height: 38%;
+    width: 100%;
+    /* border: 2px solid blueviolet; */
+}
+
+.three{
+    padding: 0 30px;
+    height: 18%;
+    width: 100%;
+    /* border: 2px solid blueviolet; */
+    
+}
+
+.poster{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid black; */
+}
+
+.movie_details{
+    height: 100%;
+    width: 70%;
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-direction: column;
+}
+
+.duration{
+    height: 100%;
+    width: 70%;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 10px;
+}
+
+.time{
+    height: 55%;
+    width: 25%;
+    border: 1px solid gray;
+    border-radius: 8px;
+    /* display: flex; */
+    
+}
+
+.icon{
+    height: 70%;
+    display: flex;
+    width: 50%;
+    gap: 20px;
+}
+
+.img{
+    height: 100%;
+    width: 90%;
+}
+
+.muviImg{
+    height: 100%;
+    width: 100%;
+}
